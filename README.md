@@ -45,6 +45,7 @@
 
 ### 🔧 Personal Project Experience
 > 실무 적용 경험은 없으나 개인 프로젝트를 통해 사용해본 기술들입니다.
+
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-0085CA?style=flat-square&logoColor=white)
