@@ -35,13 +35,13 @@
 ![CUBRID](https://img.shields.io/badge/CUBRID-003366?style=flat-square&logoColor=white)
 
 ### Infra / DevOps
+> Jenkins + OpenShift: 개발서버 배포 경험
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Apache HTTP Server](https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=flat-square&logo=apache&logoColor=white)
 ![JBoss](https://img.shields.io/badge/JBoss_EAP-CC0000?style=flat-square&logo=redhat&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
-
-> Jenkins + OpenShift: 개발서버 배포 경험
 
 ### 🔧 Personal Project Experience
 > 실무 적용 경험은 없으나 개인 프로젝트를 통해 사용해본 기술들입니다.
