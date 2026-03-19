@@ -31,7 +31,6 @@
 
 ### Database
 ![CUBRID](https://img.shields.io/badge/CUBRID-003366?style=flat-square&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Infra / DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -42,18 +41,19 @@
 
 > Jenkins + OpenShift: 개발서버 배포 경험
 
-### New Tech (Self-Study)
+### Security
+![OAuth2.0](https://img.shields.io/badge/OAuth2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![PKI](https://img.shields.io/badge/PKI-003366?style=flat-square&logoColor=white)
+
+### 🌱 Learning
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-0085CA?style=flat-square&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-## 🚀 Projects
-
-| 프로젝트 | 설명 | 기술 스택 |
-|---------|------|----------|
-| [payment-api](https://github.com/kiman-winner/payment-api) | PG사 연동 간편결제 REST API | Spring Boot · JPA · QueryDSL · Redis · JWT · Docker |
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -75,6 +75,14 @@
 - 송수신 처리 지연 분석 및 Spring Batch 기반 월 70만 건 배치 처리 최적화
 - CUBRID log top, APM 활용 슬로우 쿼리 분석 및 성능 개선
 - Sparrow Tool(SAST) 활용 보안 취약점 분석·조치
+
+---
+
+## 🚀 Projects
+
+| 프로젝트 | 설명 | 기술 스택 |
+|---------|------|----------|
+| [payment-api](https://github.com/kiman-winner/payment-api) | PG사 연동 간편결제 REST API | Spring Boot · JPA · QueryDSL · Redis · JWT · Docker |
 
 ---
 
