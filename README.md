@@ -41,10 +41,6 @@
 
 > Jenkins + OpenShift: 개발서버 배포 경험
 
-### Security
-![OAuth2.0](https://img.shields.io/badge/OAuth2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![PKI](https://img.shields.io/badge/PKI-003366?style=flat-square&logoColor=white)
-
 ### 🌱 Learning
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
