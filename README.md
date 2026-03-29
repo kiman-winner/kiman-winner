@@ -44,7 +44,7 @@
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 
 ### 🔧 Personal Project Experience
-> 실무 적용 경험은 없으나 개인 프로젝트를 통해 사용해본 기술들입니다.
+> 개인 프로젝트 경험 기술
 
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
@@ -59,7 +59,7 @@
 
 ## 📋 Career
 
-### 2021.01 ~ 2026.03 (약 5년 2개월)
+### 2021.01 ~ 2026.02 (약 5년 2개월)
 ### 대국민 전자문서유통 서비스 운영
 
 | 항목 | 내용 |
